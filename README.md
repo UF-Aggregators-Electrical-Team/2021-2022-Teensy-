@@ -9,7 +9,7 @@ SoftPWM library [link](https://github.com/bhagman/SoftPWM)
 ## To actually program code to the Teensy 4.1 you need
 - [Choice of several older arduino IDE versions, I used 1.8.13](https://www.arduino.cc/en/software)
 - [Teensyduino to get the Teensy programmed](https://www.pjrc.com/teensy/teensyduino.html)
-- The SoftPWM library, which you can install from the website or through the Arduino IDE libray manager.
+- The SoftPWM library, which you can install from the website or through the Arduino IDE library manager.
 
 ## To Do
 
